@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<title>Title</title>
+	<style>
+	body {
+		font-family: serif;
+		font-size:16px;
+	}
+	h1 {
+		font-family: sans-serif;
+		font-size: 2em;	}
+
+
+    header {
+    	float;left
+    	font-size: 8px;
+    	text-align:right;
+    }
+	}
+	p {
+		font-size: 1.2em;
+	}
+	main {
+		width:70%;
+		margin-left: 30%;
+	}
+	aside {
+		text-align:center;
+		width:30%;
+		float: left;
+		border-right: 2px dashed black;
+		height:700px;
+	}
+	h1, p {
+		padding: 0 2%;
+	}
+	img {
+		border-radius: 100px;
+		height: 200px;
+	}
+	.name {
+		color: white;
+		font-size: 4em;
+		font-
+	}
+	header {
+		width: 100%;
+		background-color: red;
+	}
+	</style>
+</head>
+<body>
+	<header
+	<h1>Phone number:<br>
+		Mail:<br>
+	</h1>
+</header>
+		<h1>JENS ANDREASSON</h1>
+	</header>
+	<aside>
+		<img src="https://via.placeholder.com/200x200">
+		<h1 class="name">Jens</h1>
+	</aside>
+	<main>
+		<h1>Main</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates sequi mollitia ut dicta deleniti vero. Aperiam, doloribus, tempora. Dolorum rem magni nulla sit aspernatur odit sequi, fugit ea tempora deleniti.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia eius, adipisci explicabo quas aspernatur. Cum vel eaque iure porro suscipit at, enim sapiente ipsam, dolor officiis itaque, dicta consequatur illum.</p>
+
+	</main>
+
+
+</body>
+</html>
